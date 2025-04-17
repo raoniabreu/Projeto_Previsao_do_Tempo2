@@ -1,5 +1,4 @@
 C:\Users\Raoni Abreu\source\repos\Projeto_Previsao_do_Tempo\Projeto_Previsao_do_Tempo\obj\Debug\Projeto_Previsao_do_Tempo.csproj.AssemblyReference.cache
-C:\Users\Raoni Abreu\source\repos\Projeto_Previsao_do_Tempo\Projeto_Previsao_do_Tempo\obj\Debug\Projeto_Previsao_do_Tempo.Form1.resources
 C:\Users\Raoni Abreu\source\repos\Projeto_Previsao_do_Tempo\Projeto_Previsao_do_Tempo\obj\Debug\Projeto_Previsao_do_Tempo.Properties.Resources.resources
 C:\Users\Raoni Abreu\source\repos\Projeto_Previsao_do_Tempo\Projeto_Previsao_do_Tempo\obj\Debug\Projeto_Previsao_do_Tempo.csproj.GenerateResource.cache
 C:\Users\Raoni Abreu\source\repos\Projeto_Previsao_do_Tempo\Projeto_Previsao_do_Tempo\obj\Debug\Projeto_Previsao_do_Tempo.csproj.CoreCompileInputs.cache
@@ -11,3 +10,4 @@ C:\Users\Raoni Abreu\source\repos\Projeto_Previsao_do_Tempo\Projeto_Previsao_do_
 C:\Users\Raoni Abreu\source\repos\Projeto_Previsao_do_Tempo\Projeto_Previsao_do_Tempo\obj\Debug\Projeto_.D8EB9D8B.Up2Date
 C:\Users\Raoni Abreu\source\repos\Projeto_Previsao_do_Tempo\Projeto_Previsao_do_Tempo\obj\Debug\Projeto_Previsao_do_Tempo.exe
 C:\Users\Raoni Abreu\source\repos\Projeto_Previsao_do_Tempo\Projeto_Previsao_do_Tempo\obj\Debug\Projeto_Previsao_do_Tempo.pdb
+C:\Users\Raoni Abreu\source\repos\Projeto_Previsao_do_Tempo\Projeto_Previsao_do_Tempo\obj\Debug\Projeto_Previsao_do_Tempo.forms1.resources

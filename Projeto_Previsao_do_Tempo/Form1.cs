@@ -12,12 +12,12 @@ using System.Windows.Forms;
 
 namespace Projeto_Previsao_do_Tempo
 {
-    public partial class Form1 : Form
+    public partial class forms1 : Form
     {
 
         private const String API_KEY = "167ee59d2341ff6d6b1496222a21c59e";
 
-        public Form1()
+        public forms1()
         {
             InitializeComponent();
             btnBuscar.Click += new EventHandler(btnBuscar_Click);
@@ -48,7 +48,7 @@ namespace Projeto_Previsao_do_Tempo
 
 
                     lblResultado.Text = $"Tempo em {cidade}:\n" +
-                                        $"Descrição: {descricao}\n" +
+                                        $"{descricao}\n" +
                                         $"Temperatura: {temperatura}°C\n" +
                                         $"Umidade: {umidade}%\n";
                 }
